@@ -15,3 +15,9 @@ background-color: antiquewhite;
     height: 800;
     background-color: aquamarine;
 }
+
+.flat{ margin: auto;
+    margin-top: 50px;
+    width: 500px;
+    height: 400px;
+}
