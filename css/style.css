@@ -8,16 +8,17 @@ width: 960px;
 height: 800px;
 background-color: antiquewhite;
 }
-.firstClass{
+.firstClass h1{
     margin: auto;
     margin-top: 25px;
-    width: 960;
-    height: 800;
-    background-color: aquamarine;
+    width: 320px;
+    height: 40px;
+    background-color: aqua;
 }
 .h31{margin: auto;
     margin-top: 25px;
-    background-color: wheat;
+    width: 100px;
+    background-color: green;
 }
 
 .flat{ margin: auto;
