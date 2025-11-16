@@ -1,3 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
-    background-color: aqua;
+margin: auto;
+width: 960px;
+height: 800px;
+background-color: antiquewhite;
+}
+.firstClass{
+    margin: auto;
+    margin-top: 50px;
+    width: 960;
+    height: 800;
+    background-color: aquamarine;
 }
