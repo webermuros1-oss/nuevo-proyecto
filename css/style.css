@@ -5,9 +5,7 @@ header{
     margin: auto;
 }
 body{background-color: aquamarine;
-
     text-align: center;
-    border-radius: 10px;
 }
 h1 {
     color: rgb(224, 45, 45);
@@ -93,11 +91,15 @@ div{
     margin-top: 20px;
 }
 .container6{
-    background-color: rgb(250,171,75);
+    background-color: rgb(250, 171, 75);
     border: 3px solid black;
+    border-radius: 3px;
+    width: 1080px;
+    height: 150px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
     margin: auto;
-    margin-top: 20px;
-    margin-bottom: 10px;
 }
 
 .diseño{
@@ -123,6 +125,7 @@ div{
 .image-container{
     position: relative;   
     display: flex;
+    justify-self: start;
     height: auto;
     margin: auto;
 
@@ -141,10 +144,15 @@ div{
 } 
 
 .gentilicio{
-    background-color: chocolate;
-border: 3px solid black;
-border-radius: 3px;
-
+background-color: rgb(250, 171, 75);
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 1080px;
+    height: 50px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: auto;
 }
 
 .piedefoto{
