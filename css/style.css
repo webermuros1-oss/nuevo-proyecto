@@ -37,6 +37,14 @@ div{
     color: rgb(88, 44, 8);
 
 }
+.volcan{border: 3px solid;
+    width: auto;
+    display: flex;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
 
 .container1{background-color: rgb(250, 171, 75);
     border: 3px solid black;
@@ -89,17 +97,17 @@ div{
     height: 400px;
     margin: auto;
     margin-top: 20px;
+    overflow: hidden;
 }
 .container6{
     background-color: rgb(250, 171, 75);
     border: 3px solid black;
     border-radius: 3px;
-    width: 1080px;
-    height: 150px;
-    display: flex;
-    justify-items: center;
-    align-items: center;
+    width: auto;
+    height: auto;
     margin: auto;
+    margin-top: 20px;
+    
 }
 
 .diseño{
@@ -123,13 +131,13 @@ div{
 }
 
 .image-container{
-    position: relative;   
-    display: flex;
-    justify-self: start;
+    width: auto;
     height: auto;
     margin: auto;
-
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+
 .cultura{background-color: rgb(151, 207, 19);
     border: 3px solid;
     margin: auto;
@@ -146,12 +154,11 @@ div{
 background-color: rgb(250, 171, 75);
     border: 3px solid black;
     border-radius: 3px;
-    width: 1080px;
-    height: 50px;
-    display: flex;
-    justify-items: center;
-    align-items: center;
+    width: auto;
+    height: auto;
     margin: auto;
+    margin-top: 20px;
+    
 }
 
 .piedefoto{
