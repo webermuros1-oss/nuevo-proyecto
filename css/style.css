@@ -133,7 +133,6 @@ div{
 .cultura{background-color: rgb(151, 207, 19);
     border: 3px solid;
     margin: auto;
-    X
 }
 
 .religion{
@@ -160,4 +159,9 @@ background-color: rgb(250, 171, 75);
 border: 3px solid black;
 border-radius: 3px;
 height: 150px;
+}
+.section1{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
 }
