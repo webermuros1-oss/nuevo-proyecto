@@ -1,3 +1,4 @@
+
 header{
     text-align: center;
     font-size: 30px;
@@ -5,8 +6,16 @@ header{
 }
 body{
     text-align: center;
+    border-radius: 10px;
 }
+h1{
+    color: rgb(224, 45, 45);
+    text-shadow: -1px -1px 0 rgb(23, 10, 77)
+    ;
+}
+
 h3{color: rgb(136, 33, 33);
+    text-shadow: -1px -1px 0 rgb(23, 10, 77)
     font-size: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -20,27 +29,27 @@ ul{
 }
 
 .container2 {
-background-color: bisque;
-border: 3px solid black;
-border-radius: 3px;
-width: 370px;
-height: 130px;
-margin: auto;
-margin-bottom:20px ;
+    background-color: bisque;
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 370px;
+    height: 130px;
+    margin: auto;
+    margin-bottom:20px ;
 
 
 }
 
 .container3{
-background-color: rgb(250, 171, 75);
-border: 3px solid black;
-border-radius: 3px;
-width: 1080px;
-height: 160px;
-display: flex;
-justify-items: center;
-align-items: center;
-margin: auto;
+    background-color: rgb(250, 171, 75);
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 1080px;
+    height: 160px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: auto;
 
 }
 .container4{
@@ -69,12 +78,10 @@ margin: auto;
 }
 
 .image-container{
-position: relative; 
-width: 50%;
-height: 700px;
-display: flex;
-text-align: ;
-
+    position: relative; 
+    width: 50%;
+    height: 700px;
+    display: flex;
     margin: auto;
     margin-bottom: 20px;
     
