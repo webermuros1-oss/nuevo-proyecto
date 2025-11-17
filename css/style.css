@@ -2,20 +2,26 @@
 header{
     text-align: center;
     font-size: 30px;
-    color: rgb(48, 87, 8);
+    margin: auto;
 }
-body{
+body{background-color: aquamarine;
     text-align: center;
     border-radius: 10px;
 }
-h1{
+h1 {
     color: rgb(224, 45, 45);
     text-shadow: -1px -1px 0 rgb(23, 10, 77)
     ;
 }
+h2{color: rgb(192, 66, 209);
+    text-shadow: -1px -1px 0 rgb(23, 10, 77);
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
 h3{color: rgb(136, 33, 33);
-    text-shadow: -1px -1px 0 rgb(23, 10, 77)
+    text-shadow: -1px -1px 0 rgb(23, 10, 77);
     font-size: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -26,6 +32,9 @@ li,p {color: rgb(14, 82, 12);
 }
 ul{
     color:rgb(11, 12, 109);
+}
+div{
+    color: rgb(88, 44, 8);
 }
 
 .container2 {
@@ -85,4 +94,17 @@ ul{
     margin: auto;
     margin-bottom: 20px;
     
+}
+.cultura{background-color: rgb(151, 207, 19);
+    border: 3px solid;
+column-count: 3;
+column-gap: 20px;
+column-rule: 4px dotted gray;
+margin: auto;
+}
+
+.religion{
+    background-color: bisque;
+    border:solid;
+    border-radius: 3px;
 }
