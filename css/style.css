@@ -1,18 +1,29 @@
 header{
     text-align: center;
+    font-size: 30px;
+    color: rgb(48, 87, 8);
 }
 body{
     text-align: center;
 }
-
+h3{color: rgb(136, 33, 33);
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+li{color: blue;
+        margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 .container2 {
 background-color: bisque;
 border: 3px solid black;
 border-radius: 3px;
 width: 370px;
-height: 90px;
-margin-top: 10px;
+height: 130px;
+margin: auto;
+margin-bottom:20px ;
 }
 
 .container3{
@@ -24,7 +35,7 @@ height: 160px;
 display: flex;
 justify-items: center;
 align-items: center;
-margin-top: 10px;
+margin: auto;
 
 }
 .container4{
@@ -36,6 +47,15 @@ margin-top: 10px;
     display: flex;
     justify-items: center;
     align-items: center;
+    margin: auto;
+
+}
+.container1{background-color: rgb(250, 171, 75);
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 1080px;
+    height: 440px;
+    margin: auto;
 
 }
 .flat{border: 3px solid;
