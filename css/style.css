@@ -121,20 +121,16 @@ div{
 }
 
 .image-container{
-    position: relative; 
-    width: 50%;
-    height: 700px;
+    position: relative;   
     display: flex;
+    height: auto;
     margin: auto;
-    margin-left: 580px;
-    margin-bottom: 20px;
+
 }
 .cultura{background-color: rgb(151, 207, 19);
     border: 3px solid;
-    column-count: 3;
-    column-gap: 20px;
-    column-rule: 4px dotted gray;
     margin: auto;
+    X
 }
 
 .religion{
@@ -142,7 +138,8 @@ div{
     border:solid;
     border-radius: 3px;
     margin-top: 20px;
-}
+} 
+
 .gentilicio{
     background-color: chocolate;
 border: 3px solid black;
